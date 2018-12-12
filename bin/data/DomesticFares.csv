@@ -1,0 +1,26 @@
+﻿"Average domestic fares for Canada and ten major cities, annual" 1
+"Annual"
+"Table: 23-10-0238-01 (formerly CANSIM 401-0004)"
+"Geography: Canada"
+
+"Geography","2013","2014","2015","2016","2017"
+"","Dollars",,,,
+"Canada","190.80","184.90","176.70","167.50","168.30"
+"Halifax","185.80","176.30","175.10","160.60","158.90"
+"Montréal","181.70","175.50","171.40","161.60","160.90"
+"Ottawa","178.60","170.50","164.30","154.90","160.60"
+"Toronto","214.40","208.80","201.70","192.10","193.20"
+"Winnipeg","201.30","190.70","182.70","170.90","169.50"
+"Saskatoon","180.40","167.10","156.20","144.30","150.10"
+"Regina","179.30","170.30","161.80","157.60","159.00"
+"Calgary","181.30","178.00","168.10","158.80","162.90"
+"Edmonton","181.90","180.10","167.70","158.10","x"
+"Vancouver","204.40","201.20","197.80","192.30","193.40"
+
+x  : suppressed to meet the confidentiality requirements of the Statistics Act,
+
+Footnotes:
+1,An E indicates a coefficient of variation between 10% and 25%. The estimates with a coefficient of variation greater than 25% cannot be released and are shown with the code F.
+
+"How to cite: Statistics Canada. Table 23-10-0238-01 Average domestic fares for Canada and ten major cities, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310023801
