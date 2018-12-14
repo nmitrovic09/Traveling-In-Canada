@@ -6,7 +6,7 @@ In the end, the interactive visualization shows how we have increased our moveme
 
 ### GETTING STARTED
 
-<!-- [Click here](https://processing.org/download/) -->
+[Click here](https://nmitrovic09.github.io)
 
 ### INSTRUCTIONS
 
